@@ -1,2 +1,2 @@
 # Numbers
-Clase 01, Numbers de JavaScript
+Clase 03, Numbers de JavaScript
